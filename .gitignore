@@ -1,0 +1,5 @@
+# compiled program and generated results
+weather_analyzer
+weather_analyzer.exe
+results/
+__pycache__/

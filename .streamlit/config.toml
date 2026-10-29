@@ -1,0 +1,5 @@
+[server]
+# Needed so file upload works inside GitHub Codespaces
+enableXsrfProtection = false
+enableCORS = false
+maxUploadSize = 200
